@@ -51,6 +51,21 @@ Este dashboard mostra a receita total gerada por ano, permitindo identificar ten
 </body>
 </html>
 
+<div style="display: flex; align-items: center; gap: 40px;">
+  <div style="flex: 1;">
+    <img src="https://raw.githubusercontent.com/lannacassio/Vendas-de-Bicicleta/main/Arquivo%20Excel/Imagens/Receita%20Anual.png" alt="Gráfico de Receita Anual" width="500"/>
+  </div>
+  <div style="flex: 1;">
+
+| Ano  | Receita Total (USD)   |
+|------|-----------------------|
+| 2016 | 2,709,484.47         |
+| 2017 | 3,845,515.02         |
+| 2018 | 2,023,989.39         |
+| **Total** | **8,578,988.88** |
+
+  </div>
+</div>
 **Insights**:
 - A receita cresceu de 2016 para 2017 (aumento de aproximadamente 42%), mas diminuiu em 2018 (queda de cerca de 47% em relação a 2017).
 - Receita total acumulada: 8,578,988.88 USD.
