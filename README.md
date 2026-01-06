@@ -12,6 +12,7 @@ Este relatório descreve o banco de dados contido no arquivo [`BikeStores.xlsx`]
 ## Perguntas de Negócio Abordadas
 
 Os dashboards foram projetados para responder às seguintes perguntas de negócio chave:
+
        . Qual é a evolução anual da receita e o crescimento ano a ano?
        . Quais são os padrões mensais de receita, incluindo sazonalidades e picos?
        . Qual loja gera mais receita e qual é a contribuição relativa de cada uma?
