@@ -35,7 +35,6 @@ O repositório no GitHub pode incluir este relatório, o arquivo Excel original,
 
 Este dashboard mostra a receita total gerada por ano, permitindo identificar tendências de crescimento ou declínio nas vendas.
 
-### Receita Anual
 
 </head>
 <body>
@@ -49,7 +48,7 @@ Este dashboard mostra a receita total gerada por ano, permitindo identificar ten
 
 **Insights**:
 - A receita cresceu de 2016 para 2017 (aumento de aproximadamente 42%), mas diminuiu em 2018 (queda de cerca de 47% em relação a 2017).
-- Receita total acumulada: 8,578,988.88 USD.
+- Receita total acumulada: $ 8,578,988.88.
 - Possíveis razões para a queda em 2018: Dados incompletos ou sazonalidade (observam-se lacunas mensais).
 
 ## Dashboard: Receita Mensal
