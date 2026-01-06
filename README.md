@@ -35,11 +35,21 @@ O repositório no GitHub pode incluir este relatório, o arquivo Excel original,
 
 Este dashboard mostra a receita total gerada por ano, permitindo identificar tendências de crescimento ou declínio nas vendas.
 
-| Ano  | Receita Total (USD) |
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Excel/Imagens/Receita%20Anual.png"></td>            
+                     <td><
+| Ano  | Receita Total ($) |
 |------|---------------------|
 | 2016 | 2,709,484.47       |
 | 2017 | 3,845,515.02       |
-| 2018 | 2,023,989.39       |
+| 2018 | 2,023,989.39       |></td>
+              </tr>
+       </table>
+</body>
+</html>
 
 **Insights**:
 - A receita cresceu de 2016 para 2017 (aumento de aproximadamente 42%), mas diminuiu em 2018 (queda de cerca de 47% em relação a 2017).
@@ -50,7 +60,7 @@ Este dashboard mostra a receita total gerada por ano, permitindo identificar ten
 
 Este dashboard exibe a receita por mês, útil para análise de sazonalidade e padrões mensais.
 
-| Mês      | Receita (USD) |
+| Mês      | Receita ($) |
 |----------|---------------|
 | 2016-01 | 241,184.15   |
 | 2016-02 | 175,768.10   |
