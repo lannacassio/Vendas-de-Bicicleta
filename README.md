@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este relatório descreve o banco de dados contido no arquivo `BikeStores.xlsx`, que registra vendas de bicicletas em lojas localizadas nos estados da Califórnia (CA), Nova York (NY) e Texas (TX). O dataset inclui informações sobre pedidos, clientes, produtos, categorias, marcas, lojas e representantes de vendas, abrangendo o período de 2016 a 2018.
+Este relatório descreve o banco de dados contido no arquivo [`BikeStores.xlsx`](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/BikeStores.xlsx), que registra vendas de bicicletas em lojas localizadas nos estados da Califórnia (CA), Nova York (NY) e Texas (TX). O dataset inclui informações sobre pedidos, clientes, produtos, categorias, marcas, lojas e representantes de vendas, abrangendo o período de 2016 a 2018.
 
 ## Dados
 * [Dados históricos](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/BikeStores.xlsx) de vendas de bicicletas de 2016 a 2018 em formato **.xlsx**;
@@ -29,7 +29,7 @@ Os dashboards foram projetados para responder às seguintes perguntas de negóci
 
 
 
-O repositório no GitHub pode incluir este relatório, o arquivo Excel original, versão Excel alterado para análise e a versão em Power BI.
+O repositório no GitHub pode incluir este relatório, o arquivo Excel original, versão [Excel](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Excel/An%C3%A1lise_BikeStores.xlsx) alterado para análise e a versão em [Power BI](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Power%20BI/BikeStore.pbix).
 
 ## Dashboard: Receita Anual
 
