@@ -25,7 +25,7 @@ Os dashboards foram projetados para responder às seguintes perguntas de negóci
 
 ## Processamento e limpeza
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Excel** e **Power BI**;
-* [**Dashboard**](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Power%20BI/BikeStore.pbix);
+* [**Dashboard**](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Power%20BI/BikeStore.pbix) e versão [**PDF**](https://github.com/lannacassio/Vendas-de-Bicicleta/blob/main/Arquivo%20Power%20BI/BikeStore_Dashboard.pdf);
 * Antes da limpeza, todo o dataset possuia  linhas 4.723 linas;
 * **Processo de limpeza:** Alteração do Formato de Número da coluna Revenue (Renda).
 
