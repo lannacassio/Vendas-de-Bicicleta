@@ -1,1 +1,1 @@
-Aqui se encontra o arquivo em Power BI em relação as vendas.
+Aqui se encontra a versão em Power BI em relação as vendas.
