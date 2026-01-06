@@ -12,14 +12,15 @@ Este relatório descreve o banco de dados contido no arquivo [`BikeStores.xlsx`]
 ## Perguntas de Negócio Abordadas
 
 Os dashboards foram projetados para responder às seguintes perguntas de negócio chave:
-  1. **Qual é a evolução anual da receita e o crescimento ano a ano?** 
-  2. **Quais são os padrões mensais de receita, incluindo sazonalidades e picos?** 
-  3. **Qual loja gera mais receita e qual é a contribuição relativa de cada uma?** 
-  4. **Como a receita se distribui por estado?** 
-  5. **Quais são os top 10 clientes por receita gerada?** 
-  6. **Quais marcas contribuem mais para a receita total?** 
-  7. **Qual é o desempenho por categoria de produto?** 
-  8. **Quais representantes de vendas têm o melhor desempenho?** 
+       . Qual é a evolução anual da receita e o crescimento ano a ano?
+       . Quais são os padrões mensais de receita, incluindo sazonalidades e picos?
+       . Qual loja gera mais receita e qual é a contribuição relativa de cada uma?
+       . Como a receita se distribui por estado?
+       . Quais são os top 10 clientes por receita gerada?
+       . Quais marcas contribuem mais para a receita total?
+       . Qual é o desempenho por categoria de produto?
+       . Quais representantes de vendas têm o melhor desempenho?
+  
 
 ## Processamento e limpeza
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Excel** e **Power BI**;
