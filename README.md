@@ -179,4 +179,4 @@ Desempenho dos representantes de vendas medido pela receita gerada.
 
 Este banco de dados fornece insights valiosos sobre o desempenho de vendas da BikeStores. Os dashboards destacam tendências anuais e mensais, contribuições por loja e estado, clientes chave, marcas e categorias populares, e o impacto dos representantes de vendas. Recomendações incluem expansão em mercados de alto desempenho (como NY) e foco em categorias crescentes (como Electric Bikes).
 
-Para mais detalhes, consulte o código Python usado para gerar essas análises no repositório GitHub. Contribuições e atualizações são bem-vindas!
+Contribuições e atualizações são bem-vindas!
